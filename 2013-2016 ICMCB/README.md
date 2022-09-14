@@ -28,3 +28,8 @@
 
 **France -
 
+The Third Sustainable Earth Sciences Conference and Exhibition
+Conference date: October 13-15, 2015
+Location: Celle, Germany
+Published: 13 October 2015
+
