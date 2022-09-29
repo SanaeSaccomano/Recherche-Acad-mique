@@ -30,8 +30,6 @@
 
 #  ![Mini Logo LOF](https://user-images.githubusercontent.com/91669852/193056232-914155bf-12bc-4d2b-ac3f-c52b46abb26c.png) Laboratoire du Futur ![mini drapeau France](https://user-images.githubusercontent.com/91669852/193056484-14271b07-428c-4047-9ea5-45367fa560db.png)
 
-
-
 **Groupe de recherche UMR 5258**
 
 # Communications
