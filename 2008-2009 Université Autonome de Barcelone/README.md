@@ -20,3 +20,13 @@
 
 # ![Logo_UAB](https://user-images.githubusercontent.com/91669852/178108629-4548c04b-b896-46c2-b25a-14c8fda216ee.png) Université Autonome de Barcelone   ![drapeau_catalogne](https://user-images.githubusercontent.com/91669852/178108715-548f4103-60d6-4a07-abfa-30400ef46b60.jpg)
 **Groupe de recherche "Electroquimica, Fotoquimica i Reactivitat Organica - GEFRO"**
+
+# Communications
+## Articles
+
+*A multi-stimuli responsive switch as a fluorescent molecular analogue of transistors*
+
+I Gallardo, G Guirado, J Hernando, **S Morais**, G Prats
+
+
+**Chemical science** 7 (3), 1819-1825 [link](https://pubs.rsc.org/en/content/articlehtml/2015/sc/c5sc03395k)
